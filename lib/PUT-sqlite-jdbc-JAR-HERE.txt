@@ -1,0 +1,1 @@
+Copy sqlite-jdbc-3.45.3.0.jar (from https://github.com/xerial/sqlite-jdbc/releases) into this folder.
